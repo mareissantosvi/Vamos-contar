@@ -1,0 +1,24 @@
+body { 
+    background: rgb(168, 170, 175); /* Define o fundo do corpo da página com uma cor cinza clara usando RGB */
+    font: normal 15pt Arial; /* Define a fonte como Arial de tamanho 15pt, com estilo normal (sem itálico ou negrito) */
+}
+
+header { 
+    color: white; /* Define a cor do texto do cabeçalho como branca */
+    text-align: center; /* Alinha o texto do cabeçalho ao centro horizontalmente */
+}
+
+section { 
+    background: rgb(237, 170, 253); /* Define o fundo da seção como branco */
+    border-radius: 10px; /* Aplica bordas arredondadas com raio de 10px */
+    padding: 15px; /* Adiciona um espaçamento interno de 15px em todos os lados dentro da seção */
+    width: 500px; /* Define a largura da seção como 500px */
+    margin: auto; /* Centraliza a seção horizontalmente na página */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.329); /* Aplica uma sombra ao redor da seção com deslocamento de 5px para a direita e para baixo, desfoque de 10px e cor preta com 32.9% de opacidade */
+}
+
+footer { 
+    color: rgb(159, 93, 189); /* Define a cor do texto do rodapé como branca */
+    text-align: center; /* Alinha o texto do rodapé ao centro horizontalmente */
+    font-style: italic; /* Aplica o estilo itálico ao texto do rodapé */
+}
